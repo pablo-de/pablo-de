@@ -1,7 +1,7 @@
 
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/pablo-de">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-de&theme=darcula"/>
 </a>
