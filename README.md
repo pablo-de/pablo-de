@@ -15,3 +15,4 @@
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/linux-0078D6?logo=linux&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/aws-3776AB?logo=amazon-aws&logoColor=white&style=for-the-badge)
